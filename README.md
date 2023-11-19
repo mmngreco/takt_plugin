@@ -25,10 +25,9 @@ python -m venv venv
 source venv/bin/activate
 pip install git+https://github.com/mmngreco/takt
 pip install .
-takt --help
-takt <your-plugin>
+takt --help  # check your plugin section
+takt <your-command>
 ```
-
 
 > [!WARNING]
 >
